@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gmall1111-util-web" />
+        <module name="gmall1111-user-manage" />
+        <module name="gmall1111-util-common" />
+        <module name="gmall1111-interface" />
+        <module name="gmall1111-bean" />
+        <module name="gmall1111-order-web" />
+        <module name="gmall1111-util-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gmall1111-bean" target="1.8" />
+      <module name="gmall1111-interface" target="1.8" />
+      <module name="gmall1111-order-web" target="1.8" />
+      <module name="gmall1111-parent" target="1.8" />
+      <module name="gmall1111-user-manage" target="1.8" />
+      <module name="gmall1111-util-common" target="1.8" />
+      <module name="gmall1111-util-service" target="1.8" />
+      <module name="gmall1111-util-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gmall1111-order-web" options="" />
+      <module name="gmall1111-user-manage" options="" />
+    </option>
+  </component>
+</project>

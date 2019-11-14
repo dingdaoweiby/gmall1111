@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gmall1111.iml" filepath="$PROJECT_DIR$/gmall1111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-bean/gmall1111-bean.iml" filepath="$PROJECT_DIR$/gmall1111-bean/gmall1111-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-interface/gmall1111-interface.iml" filepath="$PROJECT_DIR$/gmall1111-interface/gmall1111-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-order-web/gmall1111-order-web.iml" filepath="$PROJECT_DIR$/gmall1111-order-web/gmall1111-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-parent/gmall1111-parent.iml" filepath="$PROJECT_DIR$/gmall1111-parent/gmall1111-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-user-manage/gmall1111-user-manage.iml" filepath="$PROJECT_DIR$/gmall1111-user-manage/gmall1111-user-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-util-common/gmall1111-util-common.iml" filepath="$PROJECT_DIR$/gmall1111-util-common/gmall1111-util-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-util-service/gmall1111-util-service.iml" filepath="$PROJECT_DIR$/gmall1111-util-service/gmall1111-util-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall1111-util-web/gmall1111-util-web.iml" filepath="$PROJECT_DIR$/gmall1111-util-web/gmall1111-util-web.iml" />
+    </modules>
+  </component>
+</project>
