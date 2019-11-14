@@ -1,6 +1,8 @@
-package com.sn.gmall1111.user.service;
+package com.sn.gmall1111.service;
 
-import com.sn.gmall1111.user.bean.UserInfo;
+
+
+import com.sn.gmall1111.bean.UserInfo;
 
 import java.util.List;
 
